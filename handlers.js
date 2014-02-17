@@ -1,5 +1,5 @@
 exports.index = function(req, res) {
-	res.send("Welcome to Deepak's site!");
+	res.send("Welcome to Deepak's website!");
 }
 
 exports.watch = function(req, res) {
